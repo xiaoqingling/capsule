@@ -1,4 +1,4 @@
-# capscule
+# capsule
 #essay by Hindon
 #requirements
 #1.tensorflow
